@@ -13,12 +13,10 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
   return animal
 }
-const two = 2
+const two = 2;
 function add2(n) {
   return n + two
-  
-
-  }
+   }
   // Feel free to move things around!
   
 }
