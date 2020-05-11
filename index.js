@@ -10,11 +10,10 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
-  return animal = 'cat'
-  function yourAnimal(animal) {
+  return animal = 'cat';
   return animal;
 }
-}
+
 const two = 2;
 function add2(n) {
   return n + two;
